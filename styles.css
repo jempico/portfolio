@@ -1,0 +1,13 @@
+.main-container {
+    display: flex;
+    background-color: beige;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container > * {
+    flex: 1;
+    border: solid 1px rosybrown;
+
+}
