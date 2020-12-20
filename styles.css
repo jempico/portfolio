@@ -2,12 +2,12 @@
     display: flex;
     background-color: beige;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
 }
 
 .main-container > * {
-    flex: 1;
-    border: solid 1px rosybrown;
+    /*flex: 1;*/
+    border: solid 1px red;
 
 }
